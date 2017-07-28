@@ -1,0 +1,8 @@
+D:\Projects\chat-test1\client\bin\Debug\netcoreapp1.1\client.deps.json
+D:\Projects\chat-test1\client\bin\Debug\netcoreapp1.1\client.runtimeconfig.json
+D:\Projects\chat-test1\client\bin\Debug\netcoreapp1.1\client.runtimeconfig.dev.json
+D:\Projects\chat-test1\client\bin\Debug\netcoreapp1.1\client.dll
+D:\Projects\chat-test1\client\bin\Debug\netcoreapp1.1\client.pdb
+D:\Projects\chat-test1\client\obj\Debug\netcoreapp1.1\client.AssemblyInfo.cs
+D:\Projects\chat-test1\client\obj\Debug\netcoreapp1.1\client.dll
+D:\Projects\chat-test1\client\obj\Debug\netcoreapp1.1\client.pdb
